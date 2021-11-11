@@ -4,7 +4,7 @@ Para empezar a **programar en Java** necesitaremos dos cosas:
 1. Un IDE (Integrated Development Environment) que es donde vamos a escribir nuestro código o programa.
 2. La JDK (Java Development Kit) que es un software que provee herramientas de desarrollo para la creación de programas en Java.
 
-En nuestro caso como IDE vamos a utilizar uno de los más populares llamado IntelliJ IDEA. Dicho programa lo podemos descargar del siguiente modo:
+En nuestro caso, como IDE vamos a utilizar uno de los más populares llamado IntelliJ IDEA. Dicho programa lo podemos descargar del siguiente modo:
 1. Ir al siguiente enlace : https://www.jetbrains.com/es-es/idea/download
 2. Una vez allí nos descargaremos la edición Community:
     * ![Download community](resources/images/1_download_community.png)
@@ -15,7 +15,7 @@ Una vez instalado Intellij IDEA lo abriremos y:
    * ![Projects new Project](resources/images/2_projects_new_project.png)
 2. En el menú de creación de nuevo proyecto elegiremos Java y haremos click en el desplegable de *Project SDK* para elegir la opción de *Download JDK*:
    * ![Download JDK](resources/images/3_download_jdk.png)
-3. Y haciendo click en *Download* desgargaremos la versión que nos aparezca por defecto (Que siempre será la última):
+3. Y haciendo click en *Download* descargaremos la versión que nos aparezca por defecto (Que siempre será la última):
    * ![Download](resources/images/4_download.png)
 4. Luego haremos click en *Next*:
    * ![Next](resources/images/5_next.png)
