@@ -3,10 +3,10 @@
 Una vez instalado todo el entorno y creado el proyecto podemos ejecutar nuestro primer programa.
 
 Para ejecutar el programa haremos click en el botón *Run*: **(Acordemonos de este paso porque lo utilizaremos una y otra vez)**
-* ![Run](/resources/images/1_run.png)
+* ![Run](resources/images/1_run.png)
 
 Tras un rato de paciencia el programa se habrá ejecutado. Una vez ejecutado nos aparecerá una **consola** en la que veremos el resultado de la ejecución:
-* ![Result](/resources/images/2_result.png)
+* ![Result](resources/images/2_result.png)
 
 Esta consola si todo ha ido bien mostrará el mensaje *Process finished with exit code 0*. Esto básicamente indica que la ejecución ha sido correcta y no ha habido errores.
 
@@ -30,7 +30,7 @@ public class Main {
 ```
 
 Una vez hecho esto (**y habiendo guardado los cambios**), volveremos a ejecutar el programa con el botón **Run**. Esta vez el resultado en la **consola** debería ser el siguiente:
-* ![Result hello world](/resources/images/3_result_hello_world.png)
+* ![Result hello world](resources/images/3_result_hello_world.png)
 
 Llegados a este segundo punto podemos **GRITAR! Y DAR SALTOS DE ALEGRIA!** Porque acabamos de **escribir** nuestro primer programa!
 
