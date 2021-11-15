@@ -81,7 +81,7 @@ Por otro lado, tenemos el *nombre de la variable*. El nombre de la variable ser�
 
 Como recomendación (normalmente) las variables serán letras en formato *lowerCamelCase*. Es decir, la primera palabra en minúscula y las siguientes en mayúscula. Por ejemplo: valorSensorAireAcondicionado, cocheAzul, etc.
 
-## En segundo lugar, tenemos de un valor a una variable
+## En segundo lugar, tenemos el dar un valor a una variable
 
 A las variables les podemos asignar valores del siguiente modo:
 * (nombre de la variable) = (valor que queremos asignarle);. Por ejemplo, en el programa:
