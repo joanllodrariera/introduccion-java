@@ -10,3 +10,5 @@
 4. Variables I:
     * Declaración de variables
     * Asignación de variables
+5. Variables II:
+    * Arrays y matrices
