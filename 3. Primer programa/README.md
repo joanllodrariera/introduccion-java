@@ -16,8 +16,18 @@ Ahora que sabemos ejecutar un programa con el botón **Run**. Es hora de crear n
 
 Para ello reemplazaremos el texto *// write your code here* por el texto *System.out.println("Hola mundo");*
 
-Se puede ver el programa completo en el siguiente enlace: https://github.com/joanllodrariera/introduccion-java/blob/main/3.%20Primer%20programa/resources/code/Main.java
+Así quedaría el programa completo:
 
+```
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hola mundo");
+    }
+}
+```
 
 Una vez hecho esto (**y habiendo guardado los cambios**), volveremos a ejecutar el programa con el botón **Run**. Esta vez el resultado en la **consola** debería ser el siguiente:
 * ![Result hello world](/resources/images/3_result_hello_world.png)

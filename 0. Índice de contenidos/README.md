@@ -7,3 +7,6 @@
     * Paquete
     * Clase
     * Método
+4. Variables I:
+    * Declaración de variables
+    * Asignación de variables
