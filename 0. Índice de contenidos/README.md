@@ -12,3 +12,16 @@
     * Asignación de variables
 5. Variables II:
     * Arrays y matrices
+6. Operadores I aritméticos:
+    * Suma , resta, multiplicación, división, módulo y concatenar
+7. Operadores II relacionales:
+    * ==
+    * !=
+    * \>
+    * <
+    * \>=
+    * <=
+8. Operadores III lógicos:
+    * &&
+    * ||
+    * !
