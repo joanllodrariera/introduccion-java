@@ -25,3 +25,12 @@
     * &&
     * ||
     * !
+9. Condicionales I:
+    * if
+    * else
+    * else if
+10. Condicionales II:
+    * switch
+11. De repetición:
+    * while
+    * for
