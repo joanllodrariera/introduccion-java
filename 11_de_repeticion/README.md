@@ -42,7 +42,7 @@ Por lo tanto el código imprimirá por pantalla:
 
 ## For
 
-La sintaxis de la instrucción while será la siguiente:
+La sintaxis de la instrucción for será la siguiente:
 ```
 for(CÓDIGO INICIAL; CONDICIÓN; CÓDIGO REPETICIÓN) {
 	Código a ejecutar
