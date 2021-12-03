@@ -1,5 +1,5 @@
 
-# 13. Práctica: Juego del ahorcado
+# Práctica: Juego del ahorcado
 
 ## Introducción
 
