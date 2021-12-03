@@ -1,4 +1,4 @@
-# 7. Operadores II relacionales
+# Operadores II relacionales
 Los operadores relacionales son aquellos que nos permitirán comparar dos tipos primitivos entre si. Este tipo de operadores devolverán un boolean indicando si la comparación se cumple (true) o no se cumple (false).
 
 En total encontramos 6 operadores relacionales en Java. Son los siguientes:
