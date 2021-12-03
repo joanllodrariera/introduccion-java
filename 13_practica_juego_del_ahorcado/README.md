@@ -69,7 +69,7 @@ Para almacenar el número de letras que ha adivinado el jugador 2:
 ```
 int numberOfGuessedCharacters = 0; 
 ```
-Para almacenar el número de carácteres que ha adivinado el jugador 2:
+Para almacenar el número de letras de la palabra:
 ```
 int numberOfWordCharacters = wordToGuess.length();
 ```
