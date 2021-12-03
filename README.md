@@ -27,7 +27,7 @@ Por ahora, he realizado la primera unidad. Pero la intención es que esto crezca
 
 Si te gusta el contenido puedes:
 * **Seguirme en linkedin para recibir las nuevas publicaciones:**
-  * https://www.linkedin.com/in/joan-llodrà-riera-76463457/
+  * [LinkedIn](https://www.linkedin.com/in/joan-llodrà-riera-76463457/) 
 * **Incluso puedes colaborar con un café:**
-  * https://www.buymeacoffee.com/joanllodrariera
+  * [Buy me a coffee](https://www.buymeacoffee.com/joanllodrariera) 
   
