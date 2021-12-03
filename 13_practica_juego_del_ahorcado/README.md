@@ -89,7 +89,7 @@ while (currentAttempt < maximumNumberOfAttempts
 Una vez dentro del bucle del juego tendremos que ver como juega el jugador 2. Esto lo podemos dividir en 3 pasos:
 
 #### Paso 2.1: El jugador introduce una letra
-Le mostraremos un mensaje al jugador y le pediremos que introduzca una letra
+Le mostraremos un mensaje al jugador y le pediremos que introduzca una letra:
 ```
 System.out.println("Player 2! Please, introduce the letter to guess:");  
 String guessedLine = bufferedReader.readLine();  
