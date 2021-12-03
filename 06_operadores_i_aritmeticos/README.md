@@ -1,4 +1,4 @@
-# 6. Operadores I aritméticos
+# Operadores I aritméticos
 
 Cuando vimos las variables pudimos experimentar como declararlas y como darles un valor. Además de eso Java y la mayoría de lenguajes de programación nos permiten realizar operaciones sobre las variables. En el caso de Java podemos hacer las siguientes operaciones aritméticas (entre otras):
 
