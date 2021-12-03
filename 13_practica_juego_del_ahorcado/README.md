@@ -28,7 +28,7 @@ String myString = "abc";
 System.out.println(myString.lenght());
 ```
 ### int ++
-Nos permitirá aumentar en uno un entero . Por ejemplo, el siguiente código imprimirá 2*:
+Nos permitirá aumentar en uno un entero . Por ejemplo, el siguiente código imprimirá *2*:
 ```
 int myInt = 1;
 myInt++
