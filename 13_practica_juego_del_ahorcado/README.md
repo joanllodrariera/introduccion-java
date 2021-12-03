@@ -75,8 +75,8 @@ int numberOfWordCharacters = wordToGuess.length();
 ```
 ### Paso 2: Bucle del juego
 Con las variables anteriores tenemos que ver hasta cuando podrá jugar el jugador 2. Y esto será hasta que se cuplan las siguientes dos condiciones:
-* Que el jugador 2 se haya quedado sin intentos. Es decir: ```currentAttempt < maximumNumberOfAttempts```
-* Que el jugador 2 haya adivinado todas las letras. Es decir: ```numberOfGuessedCharacters < numberOfWordCharacters```
+* Que el jugador 2 tenga todavía intentos. Es decir: ```currentAttempt < maximumNumberOfAttempts```
+* Que el jugador 2 todavía no haya adivinado todas las letras. Es decir: ```numberOfGuessedCharacters < numberOfWordCharacters```
 
 Con estos datos, podemos añadir el siguiente bucle de juego:
 ```
