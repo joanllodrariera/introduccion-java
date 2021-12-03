@@ -1,4 +1,4 @@
-# 9. Condicionales I
+# Condicionales I
 
  Si pensamos de nuevo en los programas como recetas para hacer cosas pronto nos daremos cuenta que nos hacen falta algo más que instrucciones una detrás de otra. En según que casos tendremos que tomar decisiones. Por ejemplo, si hacemos una receta para salir de casa seguramente tendremos algo como: *Si llueve entonces coger un paraguas*
 
