@@ -1,4 +1,4 @@
-# 3. Primer programa
+# Primer programa
 
 Una vez instalado todo el entorno y creado el proyecto podemos ejecutar nuestro primer programa.
 
