@@ -1,5 +1,5 @@
 
-# 12. Interacción con el usuario
+# Interacción con el usuario
 
 Hasta ahora, la única parte que hemos visto para interactuar con el usuario es la impresión de mensajes por pantalla. En este capítulo vamos a ver como el usuario nos puede introducir datos a través de la consola.
 
