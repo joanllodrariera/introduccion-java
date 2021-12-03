@@ -1,4 +1,4 @@
-# 2. Instalación del entorno
+# Instalación del entorno
 
 Para empezar a **programar en Java** necesitaremos dos cosas:
 1. Un IDE (Integrated Development Environment) que es donde vamos a escribir nuestro código o programa.
