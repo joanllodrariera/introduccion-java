@@ -37,7 +37,7 @@ Los tipos de las variables podrán ser de dos tipos:
 Pasemos a ver algunos de los tipos primitivos más importantes:
 * **Enteros**:
   * Nos permitirán almacenar números sin decimales tanto positivos como negativos: -2, -1, 0, 1, 2, etc.
-  * Para utilizar una variable de tipo entero (declarado en lenguaje técnico) podemos hacerlo utilizando la palabra *int*, Es decir:
+  * Para utilizar una variable de tipo entero (declarado en lenguaje técnico) podemos hacerlo utilizando la palabra *int*. Es decir:
     * int myInt;
 * **Carácteres**:
   * Nos permitirán almacenar una letra o un símbolo. Por ejemplo: a, b, c, #, ?, etc.
