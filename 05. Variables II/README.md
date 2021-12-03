@@ -30,7 +30,7 @@ Una vez tenemos un array declarado podemos ver algunas de sus propiedades:
 
 Una cosa particular de los arrays es que pueden tener varias dimensiones. Es decir, podríamos tener un array de array (o incluso más). Esto, podemos hacerlo del siguiente modo:
 
-* ```int[][] matriz = {{1, 2}, {3, 4, 5}};```
+* ```int[][] matriz = { {1, 2}, {3, 4, 5} };```
  
 De este modo, una vez declarado el array podríamos acceder a sus propiedades igual que antes:
 

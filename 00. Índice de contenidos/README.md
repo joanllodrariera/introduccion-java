@@ -34,3 +34,5 @@
 11. De repetición:
     * while
     * for
+12. Interacción con el usuario
+13. Práctica. Juego del ahorcado
