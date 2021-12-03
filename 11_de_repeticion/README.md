@@ -1,4 +1,4 @@
-# 11. De repetición
+# De repetición
 
 Así como en los dos capítulos anteriores hemos querido ejecutar operaciones de manera condicional ahora vamos a querer ejecutar una operación múltiples veces. Para ello tendremos dos instrucciones (principales) *while* y *for*.
 
