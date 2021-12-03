@@ -195,4 +195,4 @@ Hasta aquí hemos realizado un juego del ahorcado funcional. Pero propongo al us
  1. Corregir el error que hace que el usuario gane si introduce la misma letra correcta varias veces.
  2. Mostrar un error al usuario si el jugador 2 introduce más de una letra en *guessedLine* y que esto provoque que ese sea un intento no valido para el jugador 2
 
-Hasta la primera parte de este curso. Nos vemos en la segunda parte!
+Hasta aquí la primera parte de este curso. Nos vemos en la segunda parte!
