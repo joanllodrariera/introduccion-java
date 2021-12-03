@@ -81,7 +81,7 @@ import java.util.Arrays;
 public class Main {  
   
     public static void main(String[] args) {  
-        int[][] matriz = {{1, 2}, {3, 4, 5}};  
+        int[][] matriz = { {1, 2}, {3, 4, 5} };  
         System.out.println(Arrays.toString(matriz[0]));  
         System.out.println(matriz[1][0]);  
         System.out.println(matriz.length);  
