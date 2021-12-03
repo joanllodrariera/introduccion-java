@@ -1,4 +1,4 @@
-# 1. Programación. ¿Qué es un programa/algoritmo?
+# Programación. ¿Qué es un programa/algoritmo?
 
 Bienvenid@! Si has llegado hasta aquí es que quieres aprender a programar. Pero antes de nada: ¿Qué es programar?
 
