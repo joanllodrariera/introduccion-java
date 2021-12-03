@@ -23,7 +23,7 @@ Puedes encontrar el enlace a los distintos recursos aquí:
 13. [Práctica](https://joanllodrariera.github.io/introduccion-java/13_practica_juego_del_ahorcado/)
 
 
-Por ahora, he realizado la primera unidad, pero la intención es que esto crezca si tiene más o menos usuarios!
+Por ahora, he realizado la primera unidad. Pero la intención es que esto crezca si tiene más o menos usuarios!
 
 Si te gusta el contenido puedes:
 * **Seguirme en linkedin para recibir las nuevas publicaciones:**
