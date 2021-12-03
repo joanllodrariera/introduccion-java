@@ -96,7 +96,7 @@ Notar que en los diferentes casos hemos utilizado números y variables para ilus
 
 ---
 
-Antes de abandonar los operadores aritméticos quiero hacer una mención especial al +. Este símbolo además de permitirnos sumar nos permite concatenar (unir) uno o más String entre ellos y también con tipos de datos (int, float, char boolean). Como ejemplo, de este operador tenemos el siguiente código:
+Antes de abandonar los operadores aritméticos quiero hacer una mención especial al +. Este símbolo además de permitirnos sumar nos permite concatenar (unir) uno o más String entre ellos y también con tipos de datos (int, float, char, boolean). Como ejemplo, de este operador tenemos el siguiente código:
 
 ```
 package com.company;  
@@ -111,4 +111,4 @@ public class Main {
   
 }
 ```
-Una vez ejecutado el código imprimirá *String Value3*.
+Una vez ejecutado el código imprimirá *String Value 3*.
