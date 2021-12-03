@@ -9,6 +9,8 @@ Pasemos a ver ahora los arrays. **Los arrays son conjuntos de variables de un mi
    * ```String[] textos = {"texto primero", "texto segundo"};```
 * Declaración de un array de int:
   * ```int[] enteros = {1, 2, 3, 4, 5};```
+* Declaración de un array de int de tamaño 5 sin indicar sus valores iniciales:
+  * ```int[] enteros = new int[5];```
 
 Si nos fijamos los distintos valores de los arrays irán **entre corchetes** **{** y **}**.
 
@@ -34,11 +36,11 @@ Una cosa particular de los arrays es que pueden tener varias dimensiones. Es dec
  
 De este modo, una vez declarado el array podríamos acceder a sus propiedades igual que antes:
 
-* ```matriz[0]```; Nos devolvería el array {1, 2}
+* ```matriz[0];``` Nos devolvería el array {1, 2}
 * ```matriz[1][0];``` Nos devolvería el int 3.
   * Es decir, primero accederíamos al array 1, en este caso {3, 4} y luego al elemento 0 en este caso 3
-* ```matriz.length```; Nos devolvería el int 2
-* ```matriz[1].lentgh```; Nos devolvería el int 3
+* ```matriz.length;``` Nos devolvería el int 2
+* ```matriz[1].lentgh;``` Nos devolvería el int 3
 
 Veamos ahora con 3 programas todo lo que acabamos de ver:
 
