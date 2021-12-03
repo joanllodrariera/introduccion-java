@@ -7,7 +7,7 @@ Pasemos a ver ahora los arrays. **Los arrays son conjuntos de variables de un mi
 * Declaración de un array de String:
 
    * ```String[] textos = {"texto primero", "texto segundo"};```
-* Declaración de un array en int:
+* Declaración de un array de int:
   * ```int[] enteros = {1, 2, 3, 4, 5};```
 
 Si nos fijamos los distintos valores de los arrays irán **entre corchetes** **{** y **}**.
