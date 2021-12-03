@@ -3,7 +3,7 @@
 ### Bienvenid@!
 A lo largo del contenido de este repositorio podrás iniciarte en el mundo de la programación.
 
-Está pensado para que cualquier persona con conocimientos informática a nivel de usuario pueda **empezar a programar desde 0**. Buscando **la simplicidad y la claridad** antes que nada.
+Está pensado para que cualquier persona con conocimientos de informática a nivel de usuario pueda **empezar a programar desde 0**. Buscando **la simplicidad y la claridad** antes que nada.
 
 Puedes encontrar el enlace a los distintos recursos aquí:
 
