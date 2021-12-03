@@ -27,7 +27,7 @@ Este operador dará como resultado el valor contrario al que le pasemos. Es deci
 * !true dará como resultado false
 * !false dará como resultado true
 
-Una vez vistos los operadores lógicos pasemos a ver que hace uso de ellos junto a los operadores relacionales:
+Una vez vistos los operadores lógicos pasemos a ver un código que hace uso de ellos junto a los operadores relacionales:
 
 ```
 package com.company;  
