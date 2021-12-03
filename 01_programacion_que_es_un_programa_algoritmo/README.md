@@ -8,7 +8,7 @@ Sin entrar en demasiado detalles. **Programar** a grandes rasgos **es darle inst
     2. Poner agua en la olla
     3. Poner un patata en la olla
     4. Hasta que la patata no este hervida: Esperar
-    5. Sacar el huevo de la olla
+    5. Sacar la patatq de la olla
 
 Como es lógico los ordenadores, no entienden nuestro idioma. Por este motivo, para programar se utilizan lenguajes especiales, los llamados lenguajes de programación. En nuestro caso, utilizaremos Java.
 
