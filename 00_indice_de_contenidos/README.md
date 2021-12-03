@@ -23,7 +23,7 @@
     * <=
 8. Operadores III lógicos:
     * &&
-    * ||
+    * \|\|
     * !
 9. Condicionales I:
     * if
