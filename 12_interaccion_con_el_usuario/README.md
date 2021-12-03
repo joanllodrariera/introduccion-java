@@ -34,7 +34,7 @@ En este caso, el código:
 
  1. Nos mostrará un mensaje que nos indica que debemos introducir un texto ```Write something and press enter: ```.
  2. En el mismo sitio donde se pinta este mensaje podemos introducir un texto y luego apretar la tecla intro.
- 3.Finalmente se pintará el mensaje ```You entered the line: ``` más el texto que hayamos decidido introducir.
+ 3. Finalmente se pintará el mensaje ```You entered the line: ``` más el texto que hayamos decidido introducir.
 
 Notar que la lectura de la línea se hace con las siguientes dos lineas de código:
 
