@@ -1,4 +1,4 @@
-# 10. Condicionales II
+# Condicionales II
 
 En el capítulo anterior hemos visto los condicionales de tipo if.  Java  nos da otro tipo de condicional el *switch*. Este condicional nos servirá para comprobar que valor tiene una variable. Podemos ver un ejemplo de su uso en el siguiente código:
 
