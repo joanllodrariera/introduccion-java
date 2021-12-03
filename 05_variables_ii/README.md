@@ -1,5 +1,5 @@
 
-# 5. Variables II
+# Variables II
 
 Como hemos visto antes, tenemos tipos primitivos que nos permiten guardar datos y clases que nos permiten guardar datos y además tienen métodos.
 
