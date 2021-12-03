@@ -1,4 +1,4 @@
-# 8. Operadores III lógicos
+# Operadores III lógicos
 
 Los operadores lógicos son aquellos del tipo **y** (&&), **o** (\|\|) y **no** (!). Estos operadores operarán con boolean y devolverán como resultado un boolean. Un ejemplo, de uso de este tipo de operador sería para responder a preguntas del tipo: ¿Es adulto y puede conducir?
 
